@@ -6,3 +6,4 @@
 02 2回目のコミット　fujishima
 03 3回目のコミット　fujishima
 04 4回目のコミット　fujishima
+05　急遽mainを変更しました fujishima
