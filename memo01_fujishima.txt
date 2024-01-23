@@ -3,4 +3,4 @@
 
 
 01 1回目のコミット　fujishima
-@1回目のコミット　fujishima
+@01 分岐1回目のコミット　fujishima
